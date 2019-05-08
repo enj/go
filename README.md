@@ -1,2 +1,3 @@
-# go
-Kitchen sink for Go libraries
+# Kitchen sink for Go libraries
+
+    go get monis.app/go
